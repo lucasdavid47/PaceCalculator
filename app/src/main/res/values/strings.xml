@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">           PaceCalculator</string>
+    <string name="welcome_message">Bienvenue sur PaceCalculator, votre assistant d entraînement.</string>
+    <string name="predicate_txt">Cliquez sur le chronomètre pour définir votre objectif.</string>
+    <string name="start_training_button">Commencer  entraînement</string>
+    <string name="distance_training_txt">Cliquez ci-dessous pour entrer la distance de votre entraînement.</string>
+    <string name="predicate_button">Prédiction temps</string>
+    <string name="distance_pace_txt">Entrez ci-dessous la distance de passage</string>
+</resources>
